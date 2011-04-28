@@ -1,0 +1,11 @@
+Changelog Solarized OmniFocus Themes
+
+=====
+Version 1.0.1
+
+Fixed completed item color for both dark and light theme.
+
+=====
+Version 1.0
+
+Initial Release.
